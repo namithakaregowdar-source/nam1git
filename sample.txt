@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hii hello
 good evening
+=======
+hello buddy how are u
+>>>>>>> branch1
